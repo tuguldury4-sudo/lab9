@@ -1,0 +1,5 @@
+(AI-д ӨГСӨН PROMPT — Хэсэг A-гийн дараах, 100% болохоос ӨМНӨХ төсөл)
+
+Хавсаргасан pom.xml болон src/main/java/mn/edu/must/sqat/ScholarshipCalculator.java
+файлуудыг уншаад JUnit 5-аар ScholarshipCalculatorTest тестийн класс бич.
+Зорилго: JaCoCo-ийн Line болон Branch хамралтыг 100% болгох.
